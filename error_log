@@ -1,0 +1,110 @@
+[30-Aug-2025 11:09:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:09:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:10:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:10:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:10:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:10:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[30-Aug-2025 11:10:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[31-Aug-2025 18:59:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[31-Aug-2025 18:59:41 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[31-Aug-2025 18:59:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[31-Aug-2025 18:59:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include()
+#1 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(576): include('/home/duniweal/...')
+#5 /home/duniweal/strattonpay.name.ng/core/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}('/home/duniweal/...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/duniweal/strattonpay.name.ng/core/vend in /home/duniweal/strattonpay.name.ng/core/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
